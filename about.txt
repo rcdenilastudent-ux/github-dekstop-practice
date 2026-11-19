@@ -8,3 +8,14 @@ I am a BSIT student who enjoys learning new technologies, editing pictures, and 
 My hobby is watching anime
 
 My goal is to become a skilled IT professionals
+
+My skills:
+-HTML
+-CSS
+-C#
+-Python
+
+My Interest:
+-Anime
+-Manga
+-Coding
